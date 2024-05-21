@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deHank
-- 🌱 I’m currently a student in University!
+- 🌱 I’m currently a CS PhD student at Virginia Commonwealth University!
 
 
 <!---
