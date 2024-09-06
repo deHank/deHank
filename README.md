@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @deHank
 - 🌱 I’m currently a CS PhD student at Virginia Commonwealth University!
+- I am interested in Android and iOS development! 
 
 
 <!---
